@@ -1,10 +1,9 @@
-# Teste Yooh 
+# Pokeweb
 
 **Link direto: https://pokemon-teste01.netlify.app/** <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/59b5a799-7f44-403b-a89d-996c38a6e932/deploy-status)](https://app.netlify.com/sites/pokemon-teste01/deploys)
 
-*Site desenvolvido durante teste da agência Yooh.*
 
 ### Rodando o projeto
 Para clonar o repositório use o comando `$ git clone https://github.com/araujogabriel77/teste-yooh.git`
